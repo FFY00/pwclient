@@ -13,8 +13,9 @@ eggs/
 # Unit test / coverage reports
 .tox/
 
-# Sphinx documentation
-docs/_build/
+# Documentation
+/docs/_build/
+/man
 
 # pbr
 AUTHORS
